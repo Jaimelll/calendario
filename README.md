@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# calendario
+calendario base 042
+>>>>>>> 6632cfc95cc09863296f7070bbabb33cfc94bb4c
